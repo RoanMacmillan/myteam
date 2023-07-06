@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "image": "/images/icon-person.svg",
+      "heading": "Experienced Individuals",
+      "paragraph": "Our network is made up of highly experienced professionals who are passionate about what they do."
+    },
+    {
+      "id": 2,
+      "image": "/images/icon-cog.svg",
+      "heading": "Easy to Implement",
+      "paragraph": "Our processes have been refined over years of implementation meaning our teams always deliver."
+    },
+    {
+      "id": 3,
+      "image": "/images/icon-chart.svg",
+      "heading": "Enhanced Productivity",
+      "paragraph": "Our customized platform with in-built analytics helps you manage your distributed teams."
+    }
+  ]
+  
