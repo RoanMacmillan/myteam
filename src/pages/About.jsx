@@ -1,11 +1,15 @@
 import React from 'react'
-import Hero from '../components/Hero/Hero'
 import ContactLink from '../containers/ContactLink'
+import AboutHero from '../components/Hero/AboutHero'
+import Directors from '../containers/Directors'
+import Clients from '../containers/Clients'
 
 const About = () => {
   return (
     <div>
-      <Hero />
+      <AboutHero />
+      <Directors />
+      <Clients />
       <ContactLink />
     </div>
   )

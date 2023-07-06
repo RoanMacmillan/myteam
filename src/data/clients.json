@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "image": "/images/logo-the-verge.png "
+  },
+  {
+    "id": 2,
+    "image": "/images/logo-jakarta-post.png"
+  },
+  {
+    "id": 3,
+    "image": "/images/logo-the-guardian.png "
+  },
+  {
+    "id": 4,
+    "image": "/images/logo-tech-radar.png "
+  },
+
+  {
+    "id": 5,
+    "image": "/images/logo-gadgets-now.png "
+  }
+]

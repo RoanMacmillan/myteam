@@ -1,0 +1,33 @@
+[
+    
+    {
+    "id": 1,
+    "image": "/images/avatar-nikita.jpg",
+    "heading": "Nikita Marks",
+    "subheading": "Founder & CEO"
+  },
+  {
+    "id": 2,
+    "image": "/images/avatar-christian.jpg",
+    "heading": "Christian Duncan",
+    "subheading": "Co-founder & COO"
+  },
+  {
+    "id": 3,
+    "image": "/images/avatar-cruz.jpg",
+    "heading": "Cruz Hamer",
+    "subheading": "Co-founder & CTO"
+  },
+  {
+    "id": 4,
+    "image": "/images/avatar-drake.jpg",
+    "heading": "Drake Heaton",
+    "subheading": "Business Development Lead"
+  },
+  {
+    "id": 5,
+    "image": "/images/avatar-griffin.jpg",
+    "heading": "Griffin Wise",
+    "subheading": "Lead Marketing"
+  }
+]
