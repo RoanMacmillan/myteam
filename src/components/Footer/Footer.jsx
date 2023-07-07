@@ -19,7 +19,7 @@ const Footer = () => {
         <p>987 Hillcrest Lane</p>
         <p>Irvine, CA</p>
         <p>California 92714</p>
-        <p>Call Us:949-833-7432</p>
+        <p>Call Us : 949-833-7432</p>
       </div>
 
         <div className="mt-10 mb-4 flex items-center gap-4">

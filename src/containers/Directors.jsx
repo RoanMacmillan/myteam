@@ -2,6 +2,7 @@ import React from 'react'
 import items from '../data/directors.json'
 import cross from '../assets/images/icon-cross.svg'
 import bgPattern from '../assets/images/bg-pattern-about-2-contact-1.svg'
+import bgPattern2 from '../assets/images/bg-pattern-home-4-about-3.svg'
 
 const Directors = () => {
   return (
@@ -21,6 +22,8 @@ const Directors = () => {
         </div>
         </div>
       ))}
+
+      <img className='absolute bottom-0 right-0' src={bgPattern2} alt='background pattern'></img>
 
     </div>
   )
